@@ -21,3 +21,11 @@ It highlights my technical abilities, creative design sense, and commitment to c
 ---
 
 ## 📂 Folder Structure
+Portfolio-Website/
+│
+├── index.html
+├── style.css
+├── script.js
+└── assets/
+├── images/
+└── icons/
